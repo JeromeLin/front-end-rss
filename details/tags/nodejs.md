@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-06-04 12:00:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-07-22 06:00:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -41,6 +41,9 @@
 - [2019-01-15-【招聘】蚂蚁金服微贷事业部招前端／Node／互动游戏方向工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231036&idx=3&sn=d5a1c7bbc2c6e439905d588e5c2eab48#wechat_redirect) 
 - [2019-01-05-【英】19-ways-to-become-a-better-Node.js-developer-in-2019](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230906&idx=2&sn=5164464105e3088eddd8e4c4d9a79969#wechat_redirect) 
 - [2018-12-20-【图书】Koa与Node.js开发实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230754&idx=2&sn=f8cdd8e34e6813f0949d2fdf3c7524e4#wechat_redirect) 
+- [2021-06-24-如何用-Node.js-编写-HTTP-Server？](https://www.ershicimi.com/p/614ea68ee96fbf5b62a8f956df8f2201) 
+- [2021-06-24-Node.js-有难度的面试题，你能答对几个？](https://www.ershicimi.com/p/ed931c93bcb872b03dd60ad90e89cb6f) 
+- [2021-06-07-前端高薪必备，通过-Node.js-开发一个-CLI-工具](https://www.ershicimi.com/p/e8c03d8207e3b34eeaa142a27420a3d4) 
 - [2021-05-23-Node.js-16-发布，V8-升级至-9.0！](https://www.ershicimi.com/p/a062da762d049641f1360b458d0d2470) 
 - [2021-05-22-写-Node.js-代码，从学会调试开始](https://www.ershicimi.com/p/b7add0dd512968f493cc4998edf7a59d) 
 - [2021-03-31-浅谈-nodejs-中间层](https://www.ershicimi.com/p/e7de9a5b495810e48cf76e63918922c0) 
@@ -97,6 +100,8 @@
 - [2018-10-21-细说后端模板渲染、客户端渲染、node-中间层、服务器端渲染（ssr）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555141&idx=2&sn=aa0860f6abfa0e77826e16a353f4ecd2#wechat_redirect) 
 - [2018-10-13-从-1-到完美，用-node-写一个命令行工具](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555086&idx=3&sn=0344f314b50e9f75dd70c2cc15860e97#wechat_redirect) 
 - [2018-09-27-Node-错误处理之挖坑系列](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555002&idx=3&sn=165d89efffb7d08990e855533b5d0a94#wechat_redirect) 
+- [2021-06-23-前端人的桌面应用利器-Electron，字节跳动、阿里都在用-|-极客时间](https://www.ershicimi.com/p/166d38fc30794e2ced3b721a17fc3780) 
+- [2021-06-09-我终于逃离了-Node](https://www.ershicimi.com/p/9de9612cda14faa33f984b50d1e47240) 
 - [2021-05-28-V8有了全新的超快速非优化JS编译器，性能提高5-15％](https://www.ershicimi.com/p/86e379a2b0cd616ee0588e26074f0dd2) 
 - [2021-05-17-Google-V8-引擎是如何工作的？-|-极客时间](https://www.ershicimi.com/p/880f84d2fd05a509872c0fd55a989288) 
 - [2021-04-23-桌面应用开发利器：Electron-|-极客时间](https://www.ershicimi.com/p/0f8015a46e5bcf69811b6ff9d333851f) 

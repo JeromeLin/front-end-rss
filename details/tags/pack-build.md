@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-06-04 12:00:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-07-22 06:00:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -7,6 +7,9 @@
 
 
 
+- [2021-06-29-再见！Webpack！](https://www.ershicimi.com/p/165648751ec9b3f238d6c615755425ac) 
+- [2021-06-10-Webpack-PK-Vite，2021谁是下一代的前端构建工具](https://www.ershicimi.com/p/877719bc9244c9ea128e38493a16dc49) 
+- [2021-06-06-【第2301期】@蒋豪群：面向新一代构建工具优化代码](https://www.ershicimi.com/p/0df1e19cfe17a717a35f9a258df5fa41) 
 - [2021-06-02-从-0-到-1-掌握Webpack](https://www.ershicimi.com/p/fd1c8ba0a519b1c5465e77cec94bba4e) 
 - [2021-05-21-前端进阶高薪必看：Webpack原理剖析](https://www.ershicimi.com/p/d86dfec46b1fc41d4680ff2dfa3d26b0) 
 - [2021-05-07-手写一个mini-webpack后，再也不怕面试官问我webpack原理了！](https://www.ershicimi.com/p/71c02b69b9ef576f965a66a4cad79229) 
@@ -51,6 +54,8 @@
 - [2018-11-28-深度掌握webpack的5个关键点](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230557&idx=1&sn=13a7d213e962c6c73698934482d0c0a7#wechat_redirect) 
 - [2018-11-28-【第1460期】JavaScript-基础：Babel-转译-class-过程窥探](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230557&idx=2&sn=db6cf7a6fb70c5e77473a7b3fea9153c#wechat_redirect) 
 - [2018-11-15-【第1447期】如何通过-HSB-颜色模式构建夜间模式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230308&idx=1&sn=0b5bed47ee54c834ca8ff31a8456529e#wechat_redirect) 
+- [2021-06-23-Webpack-PK-Vite，2021谁是下一代的前端构建工具](https://www.ershicimi.com/p/7503dcaa60f3c2da65b75d056ac1eb53) 
+- [2021-06-09-有点难的-webpack-知识点：Dependency-Graph-深度解析](https://www.ershicimi.com/p/ea6e392456cdd5a9dc7b182167b35d6c) 
 - [2021-05-24-20k以上面试必问，Webpack原理和优化](https://www.ershicimi.com/p/e5cde846e0e90c07f80d84812c89e3f0) 
 - [2021-05-16-npm/yarn-lock-真香](https://www.ershicimi.com/p/8cfbc38e9cf70acac2c9e32bce1f8003) 
 - [2021-05-15-用户数百万、月下载超-1-亿，著名开源项目-Babel-却说自己快没钱维护了](https://www.ershicimi.com/p/6ea68c7c7e86fef04fdce717da0402bb) 
@@ -104,6 +109,8 @@
 - [2018-12-03-前端构建：3-类-13-种热门工具的选型参考](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555458&idx=1&sn=3e86070aceb4afa35f7105ad33434042#wechat_redirect) 
 - [2018-11-30-从-0-到-1-再到-100：搭建、编写、构建一个前端项目](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555432&idx=1&sn=5d2961345a9351e9057b29f9396c9d79#wechat_redirect) 
 - [2018-09-27-webpack-启动代码源码解读](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555002&idx=1&sn=b7d609eea8dad3eea034226c19990f4d#wechat_redirect) 
+- [2021-07-01-20k-以上面试必问，Webpack-原理和优化-|-极客时间](https://www.ershicimi.com/p/dbfe030e14ac39199e452ef98dcca62f) 
+- [2021-06-04-我们为什么从-Webpack-转向-Vite](https://www.ershicimi.com/p/ad2090bc8da5ae85131db35de955e5af) 
 - [2021-05-16-Babel陷入财务困境，尤雨溪力挺负责人；玩家反向编译《罪恶都市》，T2要求删除失败；工信部下架90](https://www.ershicimi.com/p/556e0db41fb97243908019057848e5ee) 
 - [2021-04-02-玩转-Webpack-4-共需几步？-|-活动推荐](https://www.ershicimi.com/p/76bb03f92df767a42ac95627cd7ad9ea) 
 - [2020-12-11-Snowpack-3-RC-版本发布：可跳过-npm-安装步骤](https://www.ershicimi.com/p/f5dc055480b766e8308941ec89ca90f8) 
@@ -149,6 +156,7 @@
 - [2018-09-26-Nuxt-2.0正式发布：支持-Webpack-4、ES-module](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489580&idx=1&sn=ee904fa9a2f19e80b61e28d5751eeff1#wechat_redirect) 
 - [2017-04-27-使用-ES-decorators-构建一致性-API](https://fed.taobao.org/blog/2017/04/27/building-consistent-api-with-es-decorators/) 
 - [2019-02-09-npx-使用教程](http://www.ruanyifeng.com/blog/2019/02/npx.html) 
+- [2020-06-21-18款-Webpack-插件，总会有你想要的！](http://www.yyyweb.com/5380.html) 
 - [2018-11-08-Webpack-HMR-热更新实现原理深入分析](http://www.yyyweb.com/5194.html) 
 - [2018-09-19-H5唤起APP完整指南（附开源NPM库）](http://www.yyyweb.com/5149.html) 
 - [2018-08-05-在微服务下基于-GraphQL-构建-BFF](http://www.yyyweb.com/5122.html) 
