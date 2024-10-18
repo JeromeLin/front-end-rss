@@ -1,6 +1,6 @@
 > 提示：只是根据文章标题简单匹配分类
 
-:alarm_clock: 更新时间: 2024-10-11 10:10:44。[文章来源](/README.md)
+:alarm_clock: 更新时间: 2024-10-18 08:03:51。[文章来源](/README.md)
 
 ## 文章分类
 
@@ -182,6 +182,7 @@
 
 
 
+- [【Node-Weekly】Jod-only-knows-what-Node-v22-LTS-will-be-called](https://nodeweekly.com/issues/551)
 - [【Node-Weekly】All-aboard-the-high-speed-Express-train](https://nodeweekly.com/issues/550)
 - [【Node-Weekly】Principles-for-doing-Node-right-at-scale](https://nodeweekly.com/issues/549)
 - [【Node-Weekly】Express.js-5.0](https://nodeweekly.com/issues/547)
@@ -201,7 +202,6 @@
 - [【Node-Weekly】zx-8.0-for-better-Node-scripting](https://nodeweekly.com/issues/527)
 - [【Node-Weekly】Node-gets-a-redesign-and-a-documentary](https://nodeweekly.com/issues/526)
 - [【Node-Weekly】Ryan-Dahl-on-Deno-and-the-future-of-JavaScript](https://nodeweekly.com/issues/525)
-- [【Node-Weekly】A-new-small-Express.js-release-appears](https://nodeweekly.com/issues/523)
 - [......【查看更多】......](/details/tags/nodejs.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
@@ -329,6 +329,7 @@
 - [【Node-Weekly】SQL-in-your-JavaScript](https://nodeweekly.com/issues/472)
 - [【Node-Weekly】Native-modules-become-'built-ins'](https://nodeweekly.com/issues/450)
 - [【Node-Weekly】That's-so-fetch](https://nodeweekly.com/issues/423)
+- [【JavaScript-Weekly】JS0-+-JSSugar-not-so-sweet?](https://javascriptweekly.com/issues/709)
 - [【JavaScript-Weekly】A-huge-week-for-ECMAScript-proposals](https://javascriptweekly.com/issues/708)
 - [【JavaScript-Weekly】Hey,-how-many-C's-are-there-in-JavaScript?](https://javascriptweekly.com/issues/705)
 - [【JavaScript-Weekly】Reverse-engineering-minified-JS-with-ChatGPT](https://javascriptweekly.com/issues/703)
@@ -345,7 +346,6 @@
 - [【JavaScript-Weekly】Promises-visualized](https://javascriptweekly.com/issues/681)
 - [【JavaScript-Weekly】TC39-adds-a-new-stage-for-ECMAScript-proposals](https://javascriptweekly.com/issues/675)
 - [【JavaScript-Weekly】Modern-shell-scripting-with-JavaScript](https://javascriptweekly.com/issues/672)
-- [【JavaScript-Weekly】Astro-+-htmx-+-Alpine.js-==-AHA](https://javascriptweekly.com/issues/671)
 - [......【查看更多】......](/details/tags/javascript.md)
 
 <div align="right"><a href="#文章分类">⬆ &nbsp;返回顶部</a></div>
