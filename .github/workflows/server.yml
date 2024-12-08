@@ -1,0 +1,76 @@
+name: RSS Runner
+
+run-name: 'Runner #${{ github.run_number }} ${{ inputs.suffix }}'
+
+on:
+  workflow_dispatch:
+    inputs:
+      suffix:
+        description: 'Input suffix'
+        required: false
+        type: string
+
+  schedule:
+    - cron: '0 */2 * * *'
+    
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+    
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Setup pnpm
+      uses: pnpm/action-setup@v2
+      with:
+        version: 9
+        run_install: false
+        
+    - name: Use node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: 18.x
+        cache: pnpm
+        cache-dependency-path: server/pnpm-lock.yaml
+    
+    - name: Get pnpm cache directory
+      id: pnpm-store-path
+      shell: bash
+      run: echo "dir=$(pnpm store path)" >> ${GITHUB_OUTPUT}
+
+    - name: Cache modules
+      id: pnpm-cache
+      uses: actions/cache@v3
+      with:
+        path: |
+          ${{ steps.pnpm-store-path.outputs.dir }}
+        key: ${{ runner.os }}-pnpm-202412-${{ hashFiles('**/pnpm-lock.yaml') }}
+        restore-keys: |
+          ${{ runner.os }}-pnpm-202412-
+
+    - name: Install and run
+      working-directory: ./server
+      env:
+        WORKFLOW: true
+        RSS_CONFIG: ${{ secrets.RSS_CONFIG }}
+      run: |
+        pnpm install
+        pnpm run once
+
+    - name: Commit all changed files
+      id: auto-commit-action
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: update by action runner https://github.com/ChanceYu/front-end-rss/actions/runs/${{ github.run_id }}
+
+    - name: Publish site
+      if: steps.auto-commit-action.outputs.changes_detected == 'true'
+      working-directory: ./site
+      run: |
+        pnpm install
+        pnpm run build
+        pnpm add -g surge
+        surge ./dist front-end-rss.surge.sh --token ${{ secrets.SURGE_TOKEN }}
