@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-11-29 18:02:38。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-10 10:40:47。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Canvas、SVG、图像
 
@@ -44,6 +44,7 @@
 - [2019-06-12-一根飞线的故事（SVG-篇）](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556545&idx=1&sn=32465aa445daed560b3fdf84e8fd4a4f#rd) 
 - [2019-04-01-PNG-图片压缩原理解析](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556141&idx=1&sn=e76a8e761351816cfe905217b6304fa6#rd) 
 - [2019-01-06-canvas-中普通动效与粒子动效的实现](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555675&idx=1&sn=7c7262f37931a5ec866ccdd2268f0f18#wechat_redirect) 
+- [2024-12-04-AI-绘画-out-了？「AI-教母」李飞飞的新-AI-直接造-3D-世界，一张图就够！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247525503&idx=1&sn=f7805d2be2bbf12532b7f3a79256e2b9&chksm=f952d13cce25582af79edd3afcb08cadf9a072269a798e17aea46423d29e84f443b0e4a83a80#rd) 
 - [2023-02-03-Web-3D-圈摸爬滚打十多年的老兵热血自述：立志做中国跨时代-Web-渲染引擎](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247519777&idx=1&sn=e05160e245e4164bf9906f81f0fb18ed&chksm=f9523b62ce25b274b86af2a22c7d147baf27af42723a1f272bad910b3fbef50ea099290ef6a5#rd) 
 - [2022-11-16-华为云官网-Web3D-和动效技术的应用与探索](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247518668&idx=1&sn=f0cfb4d37105b7ecc2ce2ca1e64baa77&chksm=f9523c8fce25b599c89cee6dccde57dd7e5fcc7e7d0cb7c17a9b68f01a0a71f1e1e6bac4d0d8#rd) 
 - [2022-06-01-前端3D渲染实战：从零开始用WebGL编写卡通风格着色器](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247515038&idx=1&sn=f90b309b2fc3e7b08fb3c18647b157dd&chksm=f9520eddce2587cbf72d1574dbf6f2844aebc999771553e6178b1151001c1bfd20161d4a449b#rd) 
@@ -57,8 +58,8 @@
 - [2022-11-02-超酷炫的-3D-视差-Hover-动效实现](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247511264&idx=2&sn=05c8ec58386c456519935ca0a787cfb7&chksm=f992aa31cee5232747abf7b9195710f0b81f8bcba30454a26b944e0b81a2bddac9f6d2158bde#rd) 
 - [2022-08-03-Canvas-从入门到劝朋友放弃（图解版）](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510147&idx=1&sn=c0ae499ff96f730cbb1448479d6ad379&chksm=f992ae52cee52744eb4f0e3124bbf566fffc253793e74149041408cf1d706e3cbb09edb56bef#rd) 
 - [2022-07-28-从一个-bug-中延伸出-canvas-最大内存限制和浏览器渲染原理](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510014&idx=2&sn=18b5e648d299ff205ce8f021cdf54696&chksm=f992a12fcee5283949ffe4ddeb181c72c6ff679bcb5c19273a5e38662dfeeade889d6d472710#rd) 
-- [2022-07-27-5-款顶级-Docker-GUI-工具！免费又好用](https://mp.weixin.qq.com/s/jfr1vMzjZGje1vpe7CSX6A) 
 - [2022-07-27-5-款顶级-Docker-GUI-工具！免费又好用](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247510004&idx=2&sn=73720ec990ed648ceeacf7aff2065e9f&chksm=f992a125cee52833779749d8f2920a4b386a02b1acadf30be20d4fa840562ee038ebe3765e29#rd) 
+- [2022-07-27-5-款顶级-Docker-GUI-工具！免费又好用](https://mp.weixin.qq.com/s/jfr1vMzjZGje1vpe7CSX6A) 
 - [2022-01-05-吐血推荐一大波让你直呼哇塞的Canvas库](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247502410&idx=3&sn=e2bb7ff7e7a5dab1082dd529be30b34d&chksm=f992cc9bcee5458d41cfa52a6effa529220cb0e08cd5de3b354c604c549e1f471d1571dd4c68#rd) 
 - [2023-05-23-巧用模糊实现文字的-3D-效果](https://mp.weixin.qq.com/s?__biz=Mzg2MDU4MzU3Nw==&mid=2247495671&idx=1&sn=8e7b84aa6ac4a453cdd84aa50af83e5b&chksm=ce268c01f95105173f9dbb766409f5b1f73f10e14cd47665f7ec3681e012eebf45799133ebeb#rd) 
 - [2024-05-07-2024-抖音欢笑中国年五：Wasm、WebGL-在互动技术中的创新应用](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247505746&idx=1&sn=68227cec19ed79ad5ba192025300ce09&chksm=cea96053f9dee9453c281bd6923194da6781c4834c8ef6f876f7d1b48528c2ed7f4e8616c62a#rd) 
