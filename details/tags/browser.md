@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-11-29 18:02:38。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-19 18:10:12。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 浏览器相关
 
@@ -15,6 +15,8 @@
 - [2022-06-17-AbortController,-your-newest-friend](https://javascriptweekly.com/issues/594) 
 - [2022-05-20-Getting-animated](https://javascriptweekly.com/issues/590) 
 - [2022-04-01-Time-to-get-decorating](https://javascriptweekly.com/issues/583) 
+- [2024-12-18-【第3433期】见证-Web-进化：Chrome-内置-AI](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274730&idx=1&sn=1f98bafae58b98bef830996b28a0b4c0&chksm=bc6cc6a2879e732958aff78ae494cf9954e55b374722d121559838b91e6614d388b32c629135&scene=0#rd) 
+- [2024-12-10-【早阅】浏览器扩展程序攻击](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274484&idx=1&sn=6e50ccc6ca737dbe24e5089d9f3105ed&chksm=bcd1a23deaaaddbf5a08b506830311e2066ac309529d52862f2922eaac135794041fb9255bc2&scene=0#rd) 
 - [2024-11-27-【第3422期】处理Cookie的雷区](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274276&idx=1&sn=ca3ea247fd4b40bbbd7d5a4dc1932357&chksm=bc15a9d35dc688b26c141bb875fdba823166047a4356035762b9d114bb7e59aa53e0c8397579&scene=0#rd) 
 - [2023-12-02-【第3129期】音乐可视化渲染：前端开发中的艺术与技术](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267760&idx=1&sn=efec5fa793fe484505948341735794fb&chksm=bd48fb348a3f722208efcfe8ea9219686d5ae75d19b506620a558c2cdd984b9293901da4b805#rd) 
 - [2023-11-30-【第3127期】浏览器跨-Tab-窗口通信原理及应用实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651267721&idx=1&sn=e04f2e8a9ba7ea8781fc37b96482b9f7&chksm=bd48fb0d8a3f721b0cef2e27067ea8f743799c1b89f4ac928a4511c4e2d74a50cd02db64ab14#rd) 
@@ -133,6 +135,7 @@
 - [2018-10-30-【第1431期】图解浏览器的基本工作原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230177&idx=2&sn=a66f40a14287e3fed1bf59c597f35ac9#wechat_redirect) 
 - [2018-09-27-【第1405期】浏览器的-Event-Loop](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229977&idx=1&sn=e74d2564a25ade60323ee03f098b9f49#wechat_redirect) 
 - [2018-09-19-【第1398期】一文读懂前端缓存](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229883&idx=1&sn=0a775144fc84fc16c0ce581b80ab2a6c#wechat_redirect) 
+- [2024-12-16-利用Chrome浏览器使用Overrides调试线上代码，真是太方便啦！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651621662&idx=1&sn=23f2c3ad8a8ff737787aff4210c899bb&chksm=80225edfb755d7c9ac678230ca6581e4cb2fb62cc76a3636fd54a57a48cf51b564393cb9b5c2#rd) 
 - [2024-11-25-重磅！Chrome-被强制出售？谷歌或将抛弃-ChromeOS-全面转向-Android-系统](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651621634&idx=2&sn=6fcfe59a7db56576faada82d6ea241d8&chksm=80225ec3b755d7d58b81492dfe997e2781f2b94a506a7f0cd174c11e6d54b3cd7b85a964e850#rd) 
 - [2023-12-20-京东一面：post为什么会发送两次请求？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617747&idx=1&sn=7c3eb0de75638a3994ee71896c84cdc6&chksm=8022ae12b75527045ae45342806e7eccd4653f764665f1247f1cfe77c0ecc494b5edb6954783#rd) 
 - [2023-12-14-Firefox或将被淘汰](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617723&idx=1&sn=d00aeeaa1f4ea1abdfe311b956d20cfc&chksm=8022ae7ab755276c257e251dbf554f8a436ad78b7c2bc289eee7831932a2c205604d126d624f#rd) 
@@ -413,6 +416,10 @@
 - [2022-04-14-服务端渲染SSR及实现原理](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451062555&idx=1&sn=c3cc6a588db3919038727e6cd4131ea9&chksm=87c4260bb0b3af1d16b31b3e1c27fe98f3ed1f72c9a634b82d16827cb0e6ca57db515624ec98#rd) 
 - [2022-02-28-Chrome-DevTools:-可视化代码覆盖率](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451061363&idx=1&sn=f7b3d62f117b376e769c69913337bc47&chksm=87c42363b0b3aa7517c5adf51956dc0c022a1da378ef52fd183908323ec53dc437bf5d52a6e4#rd) 
 - [2022-01-19-Chrome-DevTools:-修改User-Agent，定制个性化UA](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060927&idx=1&sn=14f8cc7eb94db6cb06351782681c4875&chksm=87c421afb0b3a8b9a843999348abbef6bc0271530370b7c4c5f3c1a7ca2eea253fdf72e55c10#rd) 
+- [2024-12-14-浅谈古茗内部的Request请求库](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524660&idx=1&sn=49a6c071558a68efe9a01576d9c73bf6&chksm=f99267e5cee5eef3ce0544a53a9c2b3c11131ada9af5b424d6e33e194477c7ef9f19c1db193f#rd) 
+- [2024-12-12-2024-年前端安全报告](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524628&idx=2&sn=a9531a4f7fa218a2f089c3a812a0ec76&chksm=f99267c5cee5eed3ef1680ef7601abf54a9ddb66c86e3cc5dc1e58b32c0b8fad6d0565b55796#rd) 
+- [2024-12-05-一文彻底说清楚SSR渲染](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524471&idx=2&sn=30a2b94e9cfb4c1b922c4843c15482db&chksm=f99266a6cee5efb0bee3fcff2b58a8aaab0ec6375b005443f957087df99069a04f4853dc2140#rd) 
+- [2024-12-03-利用Chrome浏览器使用Overrides调试线上代码，真是太方便啦！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524408&idx=1&sn=c7b0b7a47b7b90d3846e089d446ac70b&chksm=f99266e9cee5efffd5ccfc9ed24406ac6950c5248cde301348a3f257d4287f8b22a05dd14c49#rd) 
 - [2024-11-28-如何使用流式渲染技术提升用户体验](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524303&idx=1&sn=0188766dfe875a55d2236a292e3ebf98&chksm=f992991ecee510084072723b66eeef65ae0862ac40842ff8b0aca90cfb88bc1e941becce385a#rd) 
 - [2024-11-25-什么？LocalStorage-也能被监听？为什么我试了却不行？](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524187&idx=2&sn=87c87132295bae9db0645b9883708406&chksm=f992998acee5109c4e471ee2b4c60eacef3694286a4b00a98a08f264e552742fc5637a3c575c#rd) 
 - [2023-11-24-前端传参如果参数过多你还会拼接在URL上嘛？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517750&idx=2&sn=67bd72f6b08dbc01f963d21ab2b4f4c9&chksm=f99280e7cee509f1a01cdfe3cf3f9a2a17a3a7063eb8e114aa1ba9aa1c20bca4d500cd479130#rd) 
@@ -470,6 +477,7 @@
 - [2023-07-26-Chrome-浏览器运行原理你了解多少？](https://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247504196&idx=1&sn=e742223812cfa1836f87b2faac3d201c&chksm=cea96645f9deef5374c61ae28a49afa7b27d778cf723686d755409d9f207899bf4a0fa8e3dea#rd) 
 - [2023-08-02-泰裤辣！号称可替代Chrome的Arc浏览器发布-1.0-版本](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247498425&idx=2&sn=7b172ff94d37d2307a81f204cb0dc27f&chksm=c2b33b46f5c4b25077b949874fd9fecff7d86d408ab5a47f81eb55520fd81d50a5ba19788e79#rd) 
 - [2023-07-20-Chrome-115-有哪些值得关注的新特性？](https://mp.weixin.qq.com/s?__biz=MzkzNTIwNTAwOA==&mid=2247498365&idx=2&sn=4ca60b3841c66d05f9ccd90e9826f101&chksm=c2b33b82f5c4b29438819f76ae0560dab14b04ba989bfd37190f381c285b6dad0633c48eb96d#rd) 
+- [2024-12-16-神了，Chrome-这个记录器简直是开发测试提效神器](http://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247516915&idx=1&sn=a1bf03a53a8f54d4fe12654975188b9b&chksm=eb07ba8adc70339ce19596001f6d9620221cb899ee3bc3a0c43b431773653677927e14b345cb#rd) 
 - [2024-01-05-请转发！Chrome-已开始第三方-Cookie-停用计划](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247514751&idx=1&sn=837510e2acf696731f35efe355a407f3&chksm=eb078206dc700b102fa22851c7811805a8d3a8854156112e12c84890525e449bd0e9628d6b46#rd) 
 - [2023-08-17-手写玩具版浏览器渲染引擎，彻底搞懂原理](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247513452&idx=1&sn=6ea003d056892fc916fc376e542ff79d&chksm=eb078d15dc7004035b323647292c3033e940e59cecfc5e18f99c2de524c20539a7430af1f09b#rd) 
 - [2023-08-02-Chrome-浏览器运行原理你了解多少？](https://mp.weixin.qq.com/s?__biz=MzI3NTM5NDgzOA==&mid=2247512851&idx=2&sn=2eea54ef5f9cc1ba584352defc388a67&chksm=eb078b6adc70027cc0c829ec347eccbb0a7fb9fdebc82a0b852a176ba42c5eb9e4952ed9029f#rd) 
