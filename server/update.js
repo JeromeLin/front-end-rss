@@ -23,18 +23,18 @@ let newData = null
 /**
  * 更新 git 仓库
  */
-function handleUpdate() {
-  utils.log('开始更新抓取')
-
-  git.pull().exec(handleFeed)
+async function handleUpdate() {
+  if (!utils.WORKFLOW) {
+    utils.log('开始更新抓取')
+    await git.pull()
+  }
+  handleFeed()
 }
 
 /**
  * 提交修改到 git 仓库
  */
 function handleCommit() {
-  utils.log('完成抓取，即将上传')
-
   git.add('./*')
     .commit('更新: ' + newData.titles.join('、'))
     .push(['-u', 'origin', 'master'], () => utils.logSuccess('完成抓取和上传！'))
@@ -63,10 +63,10 @@ function handleFeed() {
         if (exist) {
           return prev
         } else {
-          let date = moment().format('YYYY-MM-DD')
+          let date = utils.getNowDate('YYYY-MM-DD')
 
           try {
-            date = moment(curr.isoDate).format('YYYY-MM-DD')
+            date = utils.formatDate(curr.isoDate, 'YYYY-MM-DD')
           } catch (e) {}
 
           newData.rss[rssItem.title] = true
@@ -97,18 +97,24 @@ function handleFeed() {
     })())
   }))
 
-  Async.series(tasks, async () => {
+  Async.parallelLimit(tasks, 5, async () => {
     if (newData.length) {
       fs.outputJsonSync(LINKS_PATH, linksJson)
       await writemd(newData, linksJson)
       await createFeed(linksJson)
-      handleCommit()
+      utils.log('完成抓取，即将上传')
+      if (!utils.WORKFLOW) {
+        handleCommit()
+      }
     } else {
       utils.logSuccess('无需更新')
     }
     rssJson = null
     linksJson = null
     newData = null
+    if (utils.WORKFLOW) {
+      process.exit(0)
+    }
   })
 }
 

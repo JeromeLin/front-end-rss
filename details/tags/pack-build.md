@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-11-29 18:02:38。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-20 02:11:42。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## Webpack、NPM、构建相关
 
@@ -27,6 +27,8 @@
 - [2022-11-04-Is-Turbopack-really-10x-faster-than-Vite?](https://javascriptweekly.com/issues/613) 
 - [2022-07-15-Vite-3,-or-in-French:-quick,-quick,-quick.](https://javascriptweekly.com/issues/598) 
 - [2022-02-04-Get-decorating-with-Babel-7.17.0](https://javascriptweekly.com/issues/575) 
+- [2024-12-05-【图书】基于大模型的RGA应用开发与优化-构建企业级LLM应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274375&idx=2&sn=e87cc1e140c88a9206d33fe3a68ac621&chksm=bc0cca53d35d0b65e5d8832d2af0bb0df4368649dd94416b58c7307e28b85826e29c575c8333&scene=0#rd) 
+- [2024-12-02-【第3424期】Vite-6.0-发布了！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274342&idx=1&sn=69e7efe4a66ac4de05d250a2a6f71063&chksm=bcafb594dbfca83c7edc94228b2b1f680ce8dc0b22c25f5ca6d0d71d7846ee472edf9925be12&scene=0#rd) 
 - [2024-11-29-【早阅】如何有效清除NPM和NPX缓存？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651274301&idx=2&sn=cd81adafd6f785471d0ee5ae4d54012c&chksm=bc670864a83e738c0f6b8a005ed67301d45b5e4f94eed1b007941753dde2597a6244c07469ed&scene=0#rd) 
 - [2024-02-04-【第3189期】信使-Web-builder：拖拽组件构建响应式页面的前端开源框架](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651269104&idx=1&sn=a4db3b0276603c70b5ce9ea50828dcdd&chksm=bd48fe748a3f7762733d53a877d9da55e4612aef1ab23aa4f50fb5cd4ad55eabd5a6bd68d8b1#rd) 
 - [2023-12-20-【第3147期】前端Monorepo大仓权限设计的思考与实现](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651268094&idx=1&sn=35b3e1e8294feb8ee807bf21d48d7666&chksm=bd48fa7a8a3f736c50493bbfb2bf73fcd583ae9ab5a4ea5c2ade46eb739b7d097db4bae1acb2#rd) 
@@ -117,6 +119,7 @@
 - [2018-11-28-深度掌握webpack的5个关键点](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230557&idx=1&sn=13a7d213e962c6c73698934482d0c0a7#wechat_redirect) 
 - [2018-11-28-【第1460期】JavaScript-基础：Babel-转译-class-过程窥探](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230557&idx=2&sn=db6cf7a6fb70c5e77473a7b3fea9153c#wechat_redirect) 
 - [2018-11-15-【第1447期】如何通过-HSB-颜色模式构建夜间模式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230308&idx=1&sn=0b5bed47ee54c834ca8ff31a8456529e#wechat_redirect) 
+- [2024-12-13-NPM-作者推出全新的-JavaScript-包管理器！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651621657&idx=1&sn=c1b5ef3f19dab981badd536b0ea32ca3&chksm=80225ed8b755d7ce18658aa92b071e87c3e8646c68b634e2dfcac29f16b4f8f4e5f9ab305f3c#rd) 
 - [2023-12-18-面试官：生产环境构建时为什么要提取css文件？](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617728&idx=1&sn=6454d7d0a8507be4027e3625fe30f025&chksm=8022ae01b755271796c37b2fd203cafbc1988ed63208b171da6644475988e14076109ca033fc#rd) 
 - [2023-11-30-二十张图片彻底讲明白-Webpack-设计理念，以看懂为目的](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617618&idx=2&sn=b259e1eae08e28ac75f2f1b724a95485&chksm=8022ae93b75527852be0c15e3fcea1b19e7f3c0a3a3edacd4a252eaee1ca68aef1be333649a1#rd) 
 - [2023-10-19-深度剖析-Vite-配置文件](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651617049&idx=2&sn=2476675828c70c22035eb3ac1f66ec1d&chksm=8022a0d8b75529cebf36439b0a4fb04385fdd2436511af77833c3a28223b1aab7d0d125456fc#rd) 
@@ -282,6 +285,7 @@
 - [2019-01-12-你配置Webpack-4的方式可能是错的！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490260&idx=1&sn=65e7eb1453f0db2ba602cc9ce37da6c4#wechat_redirect) 
 - [2018-12-10-NPM-2018年回顾与2019年预测](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490082&idx=1&sn=5dc05a3eaa734918f1cff759d57ae20d#wechat_redirect) 
 - [2018-09-26-Nuxt-2.0正式发布：支持-Webpack-4、ES-module](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489580&idx=1&sn=ee904fa9a2f19e80b61e28d5751eeff1#wechat_redirect) 
+- [2024-12-01-Vite-6.0-到底更新了啥玩意啊？？？](http://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247501254&idx=1&sn=28d5ed0b572a33898d775be1455e9362&chksm=ce45d057f93259415d3569d2dd85740b78f63376d3f593c7d317483f9259ae25eff36e4085e3#rd) 
 - [2023-08-14-开发一个babel插件，自动解决前端精度丢失问题！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489975&idx=1&sn=09e734e7d2c0abcea19cbb79a93f2c52&chksm=ce460c26f9318530052e7786bcd75d73d1c03fee9ff084c1821064fd1b5b4e7ed9a3e501c3a8#rd) 
 - [2023-08-07-如何使用Rollup开发一个npm包并发布](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489860&idx=1&sn=bbd1d556051a9157a1a2729e60afac68&chksm=ce460cd5f93185c39f8118658367b473c81aec2b550240b0ecf4621110303908811fa3208b91#rd) 
 - [2023-07-07-带你了解并实践monorepo和pnpm，绝对干货！熬夜总结！](https://mp.weixin.qq.com/s?__biz=Mzg2NjY2NTcyNg==&mid=2247489392&idx=1&sn=00993837208ab1cc86eae2f137de02e5&chksm=ce4602e1f9318bf7529f076d2e94aa183d5c952f5ebe53106631aaa50c1799c15bd756038244#rd) 
@@ -325,6 +329,9 @@
 - [2022-01-08-vite-——-一种新的、更快地-web-开发工具](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060804&idx=3&sn=e20e807b2877fb720ead56549a21cd53&chksm=87c42154b0b3a84222b1dd99c25b8e8c5584c8a01aee2a959dc53209ca9fa2931c41a17b9ca5#rd) 
 - [2022-01-03-vite-——-一种新的、更快地-web-开发工具](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060774&idx=2&sn=3896ee9d1d7d590aea4554f5655c5573&chksm=87c42136b0b3a8203510469f1629212fac01ccc02af6135cc4c390c3ce814fec97b5c43ce077#rd) 
 - [2022-01-02-从零实现-vite（先导篇）](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060773&idx=1&sn=afac035cf840dacf3463c52a64df551b&chksm=87c42135b0b3a82367367272c88491556a6da3220d247b48428d01749e9e99d363b97e300530#rd) 
+- [2024-12-02-Node+Websoket极速构建一个私有ChatGPT！AI套壳居然如此简单！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524396&idx=1&sn=b28aeb6e59630d0e2a616defc0628479&chksm=f99266fdcee5efebb16634bf6ba4bb12ac7b9da8fc8faf1d21da6d8fa9a048decb241085087d#rd) 
+- [2024-12-01-Vite-6.0-正式发布](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524345&idx=2&sn=1dcce48a6b9c281c1b0928156f63c21b&chksm=f9929928cee5103e1aee433ec18eab5a026552a1ae9ce7fee09f46f85ea4f72f24c430104746#rd) 
+- [2024-11-30-Vite封装ts工具库并发布npm包](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524327&idx=1&sn=7a74a68ef998ab6cd66bcabc43dad567&chksm=f9929936cee510208f23a47a7abebc28b736bf0a4b9d00f4dd45aa968d0eac3422088c56742f#rd) 
 - [2023-11-29-面试官：生产环境构建时为什么要提取css文件？](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517840&idx=1&sn=f7149f260c7e02f91e7ff9541496c12d&chksm=f9928041cee50957278dc9b49bab1350a2318d88d87b1a15517802eea1b201e1880d8a81a47f#rd) 
 - [2023-11-18-Vite-5.0-发布了！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517629&idx=2&sn=a40004c3017c2a3300b76818fa81e455&chksm=f992836ccee50a7af61f98e37ca91da4289942205d24a8605f92101a59701a99a8b67bd4214f#rd) 
 - [2023-11-01-教你如何构建自己的依赖注入工具](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516814&idx=1&sn=45f8d7de379a30976332f58e56cbe608&chksm=f992845fcee50d4993c5568c58c6499bccf46efb5739fe179b1218df9701ac01d9effbd302da#rd) 
