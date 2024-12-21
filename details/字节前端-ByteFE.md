@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2024-11-29 08:03:31。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-22 02:11:01。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## 字节前端-ByteFE
 
 
 
 
+- [2024-12-19-来战！「豆包-MarsCode-算法竞技赛」第二期开赛，丰厚奖金等你来拿](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247505932&idx=1&sn=1d1f4992b94857558b59a4edc053d342&chksm=cea96f0df9dee61b03779f13e0ffb53eb82687911f9366faa2d6fe26dd19ee122f35f9c49037#rd) 
+- [2024-12-03-来战！激发你的编程潜力，挑战极限！豆包-MarsCode-算法竞技赛火热来袭！](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247505922&idx=1&sn=80746261541b5bbc360ccba547e40d1f&chksm=cea96f03f9dee6155e3031466d200bd2da877027759b29738c1d00df35d164d94be661d30ee2#rd) 
 - [2024-11-28-前端、后端、大数据免费学，豆包MarsCode-青训营---寒假专场报名啦](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247505913&idx=1&sn=32d1211336feaec74b01a43844cb2738&chksm=cea960f8f9dee9ee30f0590965b43a7284ad20cd86c96574da78ea6ea367b53efc091e9b6ba9#rd) 
 - [2024-11-11-【请领取打卡礼】刷题不停，Offer可期！豆包MarsCode-&amp;-掘金-AI-刷题功能再次升级！](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247505902&idx=1&sn=250c2ae1ed518da2364e9e9e404b3802&chksm=cea960eff9dee9f90ebfd6dfb02e55d450be0e35b77ac84cfe3ad00568ec458b57899cba83f8#rd) 
 - [2024-10-22-1024-码上奇妙夜｜开发者专属，万元“豪”礼，宠爱满满！](http://mp.weixin.qq.com/s?__biz=Mzg2ODQ1OTExOA==&mid=2247505893&idx=1&sn=fbe28098cedefb6494e7252551fe9f95&chksm=cea960e4f9dee9f2e691fee2bb5e22b92ef74fd90bc6e6f9a559306d463d7e8de510c86190df#rd) 

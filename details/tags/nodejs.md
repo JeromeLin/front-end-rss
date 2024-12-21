@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2024-11-29 18:02:38。[文章来源](/README.md)、[文章分类](/TAGS.md)
+:alarm_clock: 更新时间: 2024-12-22 04:09:41。[文章来源](/README.md)、[文章分类](/TAGS.md)
 
 ## NodeJS
 
@@ -7,6 +7,8 @@
 
 
 
+- [2024-12-17-A-look-back-at-Node's-2024](https://nodeweekly.com/issues/560) 
+- [2024-12-03-A-full-fledged-canvas-for-Node.js-apps](https://nodeweekly.com/issues/558) 
 - [2024-11-19-Using-Node-to-get-ChatGPT-on-the-phone](https://nodeweekly.com/issues/556) 
 - [2024-11-12-Node-v23.2-released](https://nodeweekly.com/issues/555) 
 - [2024-11-05-Running-WebAssembly-apps-inside-Node.js](https://nodeweekly.com/issues/554) 
@@ -95,6 +97,7 @@
 - [2021-12-23-Looking-back-at-Node.js-in-2021](https://nodeweekly.com/issues/419) 
 - [2021-12-16-Shell-scripting-in-Node-with-zx](https://nodeweekly.com/issues/418) 
 - [2021-12-02-One-dev's-journey-from-Node-to-Rust](https://nodeweekly.com/issues/416) 
+- [2024-12-12-Benchmarking-Node's-recent-performance-enhancements](https://javascriptweekly.com/issues/716) 
 - [2024-09-26-Deno-gets-even-better](https://javascriptweekly.com/issues/706) 
 - [2024-08-22-A-regular-expression-refresher](https://javascriptweekly.com/issues/701) 
 - [2022-10-14-Node-to-keep-an-eye-on-your-code](https://javascriptweekly.com/issues/610) 
@@ -168,8 +171,8 @@
 - [2022-02-20-Node.js-可以和-Web-实现-HTTP-请求的跨平台兼容了！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651598632&idx=2&sn=2cf791edc2f66dfa4dc84499e46cea74&chksm=8022f8e9b75571ffdac7953d6b5361cda3fb5455b0360371e3e8b2aced62e093c545dadb201f#rd) 
 - [2022-01-20-《Node.js-开发者-2021-报告》发布](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651595617&idx=2&sn=30369cb3af26957c31ced9125f58440a&chksm=8022f4a0b7557db68fe066573908c185be9eed06364b2ef60e1b284800ae02dd2dffa034bce6#rd) 
 - [2022-01-08-Node.js-的底层原理](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651593980&idx=2&sn=fc45de2abce1f7c1788828817199aa6b&chksm=8022cb3db755422b0f0b8a0e6aa37111c73a2313dda406f610d8459ed47c019f864621985143#rd) 
-- [2021-06-24-如何用-Node.js-编写-HTTP-Server？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651578105&idx=1&sn=b162a5eb7704131e891354cbad708bbf&chksm=80250938b752802e44d2d4b5191b7963e00a37051d3f8336025d54769e9df7c62d3443dd58c4&scene=27#wechat_redirect) 
 - [2021-06-24-Node.js-有难度的面试题，你能答对几个？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651578105&idx=2&sn=ace9b43370fea5359b9c6f8af587b8c1&chksm=80250938b752802e300740b2036c5f20f32c1ec50cf41b098528f50c7ebec7abb606e837ff68&scene=27#wechat_redirect) 
+- [2021-06-24-如何用-Node.js-编写-HTTP-Server？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651578105&idx=1&sn=b162a5eb7704131e891354cbad708bbf&chksm=80250938b752802e44d2d4b5191b7963e00a37051d3f8336025d54769e9df7c62d3443dd58c4&scene=27#wechat_redirect) 
 - [2021-06-07-前端高薪必备，通过-Node.js-开发一个-CLI-工具](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651577217&idx=1&sn=f0a0c9535edaacd19649b43e78f2308e&chksm=80250c40b7528556dfab979ae123d0ca80b9b13e6dce3733f4ffb63a04bd79c51962b7262c72&scene=27#wechat_redirect) 
 - [2021-05-27-前端工程师的一大神器：puppeteer](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651577107&idx=2&sn=544fd5719a0770d4df4289cf004198cc&chksm=80250cd2b75285c4bdf8eade969b9a88a91f49e84603b875d244cf006fa8fc819e9d3663f3cb&scene=27#wechat_redirect) 
 - [2021-05-23-Node.js-16-发布，V8-升级至-9.0！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651576264&idx=2&sn=ee6ee8803128417e4010a4b6b0dd6936&chksm=80250009b752891f8b7904308c13465c882b2c696734fa64f90d276f89f4739bb24a52263a4e&scene=27#wechat_redirect) 
@@ -360,6 +363,10 @@
 - [2022-01-19-成为自信的node.js开发者（一）](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060927&idx=3&sn=f9633a5ff2b7fcd9b436bc3b5d2ae029&chksm=87c421afb0b3a8b93f94a14ed5a3c91fdd9d9f90ce1d050b3c96e2324788b22434eea6cdedb3#rd) 
 - [2022-01-16-简析-Node.js-特点与应用场景让你更了解它](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060887&idx=3&sn=6dd52cfdc127cb03dcf630949a27658d&chksm=87c42187b0b3a89195b0d7c6f0029f5a61af3636a6a195da8edd3d0f289049809f59b065e2c5#rd) 
 - [2022-01-01-通过-Node.js-小示例学习浏览器缓存策略](http://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451060772&idx=3&sn=3ee0c658dd84a6e481bb3cc14e502a04&chksm=87c42134b0b3a822122a78b3bb676d122c0fbcd280dc9facd0c19e7cbe4b638ab09b283c590d#rd) 
+- [2024-12-18-Node.js-开始反击了](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524721&idx=2&sn=5b401dc7230980c31554df40b9ec0659&chksm=f99267a0cee5eeb6937acde062c565862d4fe73c1522d18ddd7993d97f7884b00f64a65a5825#rd) 
+- [2024-12-09-目前最快的-Node.js-HTTP-客户端库-Undici-发布-v7-版本！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524587&idx=1&sn=80bc7865e2db7206461ffb5f18b93427&chksm=f992663acee5ef2c7d442515799465e471f21ed7ee2714c85038b256de1866225f9e79ee2683#rd) 
+- [2024-12-07-聊聊-Node.js-最近支持的-SO_REUSEPORT](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524571&idx=2&sn=c69326ffeb1ba716ec89ca328422d9bf&chksm=f992660acee5ef1ca57321399be5a03602eca59b7024c5a0c76fbe96a3b839cdec30802be6f2#rd) 
+- [2024-11-30-Deno-起诉-Oracle！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524327&idx=2&sn=5af3099fc6c18232d1a06294da85f215&chksm=f9929936cee51020eecc8a3b3051b56f35fc67ba1c92c5ac66f33e1c9f5a63ab602d21e07931#rd) 
 - [2024-11-27-前端要想学好-NodeJs，这些性能监控指标可不能不会！！！](http://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247524286&idx=1&sn=1f35aad1221b84f51e5c9d9c7b69c715&chksm=f992996fcee510796dd5c138fedb8d985824aa550c74d2f2a996a7b49c2b9878ca266f9620fb#rd) 
 - [2023-12-03-基于Promise.resolve实现Koa请求队列中间件](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247517900&idx=2&sn=6937d9d6315c792df0cfbb9de6a95df1&chksm=f992801dcee5090bed854b1438d5e8a7aaeda3a0f9d0de7565f2a8521fbc6376536f5be25db2#rd) 
 - [2023-11-09-14道Nodejs典型技术问题，提升你的开发效率！](https://mp.weixin.qq.com/s?__biz=MzUxNzk1MjQ0Ng==&mid=2247516986&idx=1&sn=ea73bc3b469525e2319f3dad57b66dbb&chksm=f99285ebcee50cfd59d3e9f8e7f2be5e97e8f3997f536274f9a823f9832b593260d37db9304f#rd) 
@@ -426,8 +433,8 @@
 - [2022-08-25-【ECMAScript-新消息速递】🎉-恭喜阿里巴巴昭朗同学负责的-proposal-array-grouping-提案代码实现成功-Landing-V8！这意味着在不久的将来，大家就能用上-`.group-`-的新语法了。](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247496127&idx=1&sn=0a3f97097cf6dfa846709b445f06f2f3&chksm=ec47ba7cdb30336adb3f37a73616bcae7a41707488c23712b755fb98efc04cc216aac9f352d1#rd) 
 - [2022-03-25-Node.js-Web-框架再进化---面向前端与未来标准](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247495520&idx=1&sn=b9041886373d4abbf9887126f27188f8&chksm=ec47a4a3db302db538f25fa88f87cb5f053aa5712072b902da53512bc1bd84c5ec885cdc2f75#rd) 
 - [2022-01-12-Node.js-2021年开发者报告解读：健康稳步的发展中](http://mp.weixin.qq.com/s?__biz=MzI5NjM5NDQxMg==&mid=2247495139&idx=1&sn=ac3cd2becc106cf38091778403f2c598&chksm=ec47a620db302f368ecd87a64efbf2ba311efef4c57632a1dd37eb2172046c851cef9d0395d8#rd) 
-- [2019-08-23-如何加快-Node.js-应用的启动速度](https://fed.taobao.org/blog/2019/08/23/speed-node-start-time/) 
 - [2019-08-23-如何加快-Node.js-应用的启动速度](https://fed.taobao.org/blog/taofed/do71ct/speed-node-start-time) 
+- [2019-08-23-如何加快-Node.js-应用的启动速度](https://fed.taobao.org/blog/2019/08/23/speed-node-start-time/) 
 - [2018-01-12-构筑未来数据网---Pandora.js-的信息通路](https://fed.taobao.org/blog/2018/01/12/pandora-information-channel/) 
 - [2018-01-05-跨越时代的度量衡---Pandora.js-的-Metrics-介绍](https://fed.taobao.org/blog/2018/01/05/pandora-metrics/) 
 - [2017-12-21-让进程间通信更容易---Pandora.js-的-IPC-Hub](https://fed.taobao.org/blog/2017/12/21/pandora-ipc/) 
